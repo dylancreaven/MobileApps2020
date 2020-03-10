@@ -30,9 +30,19 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadSceneAsync(SceneNames.Completed_Level,LoadSceneMode.Additive);
     }
 
-    public void Start_Level2(){
+    public void Next_Level(){
+         int y = SceneManager.GetActiveScene().buildIndex;
+         SceneManager.UnloadScene(y);
+         y = SceneManager.GetActiveScene().buildIndex;
+         SceneManager.LoadScene(y+1);
 
+        
         SceneManager.LoadSceneAsync(SceneNames.GAME_LEVEL2);
+    }
+
+     public void restart_level(){
+
+         Application.LoadLevel(Application.loadedLevel);
     }
 
    public void ExitGame() {

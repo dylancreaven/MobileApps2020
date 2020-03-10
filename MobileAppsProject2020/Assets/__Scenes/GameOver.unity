@@ -190,7 +190,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bd3a96f598b80647bd2be94a0d16140, type: 3}
---- !u!114 &1239324184 stripped
+--- !u!114 &1079789022 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4582976030789175089, guid: 7bd3a96f598b80647bd2be94a0d16140,
     type: 3}
@@ -266,25 +266,35 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &5917171684785260383
+--- !u!1001 &1895263659
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4027949520640513515, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1079789022}
+    - target: {fileID: 4027949520640513515, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GoToMainMenu
+      objectReference: {fileID: 0}
     - target: {fileID: 5917171683097503068, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1239324184}
-    - target: {fileID: 5917171683259309443, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
+      objectReference: {fileID: 1079789022}
+    - target: {fileID: 5917171683097503068, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1239324184}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: restart_level
+      objectReference: {fileID: 0}
     - target: {fileID: 5917171684448367919, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -323,7 +333,7 @@ PrefabInstance:
     - target: {fileID: 5917171684448367919, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5917171684448367919, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}

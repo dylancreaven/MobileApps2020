@@ -74,7 +74,6 @@ public class Enemy : MonoBehaviour
                 PlaySound(hitPlayer);
 
             }
-            
             Destroy(player.gameObject);//kill player
             if(sc)
             {
