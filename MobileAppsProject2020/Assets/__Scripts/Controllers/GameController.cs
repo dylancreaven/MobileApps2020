@@ -46,7 +46,7 @@ public class GameController : MonoBehaviour
         playerScore += enemy.ScoreValue;
         UpdateScore();
        
-            if(playerScore==30)
+            if(playerScore==500)
             {
                 Time.timeScale = 0;
                 if(mp)
