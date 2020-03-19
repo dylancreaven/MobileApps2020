@@ -24,8 +24,6 @@ public class SceneController : MonoBehaviour
         
     }
     public void Credits(){
-
-        
         Debug.Log("CREDITS");
         SceneManager.LoadSceneAsync(SceneNames.CREDITS);
 
@@ -47,8 +45,15 @@ public class SceneController : MonoBehaviour
 
     public void Next_Level(){
          int y = SceneManager.GetActiveScene().buildIndex;
-         SceneManager.UnloadScene(y);
-         SceneManager.LoadScene(y+1);
+       if(y==2)
+       {
+           Credits();
+
+       }
+       else{
+           SceneManager.LoadScene(y+1);
+       }
+         
     }
 
      public void restart_level(){

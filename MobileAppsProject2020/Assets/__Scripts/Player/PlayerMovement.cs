@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerMovement : MonoBehaviour
 {
     // == public fields ==
-
+   
     // == private fields ==
+     private float xValue;
+    private float yValue;
     private Rigidbody2D rb;
     private bool facingRight=true;
     [SerializeField] private int playerLives=3;
@@ -52,8 +54,20 @@ public class PlayerMovement : MonoBehaviour
 				Flip();
 			}
         //Debug.Log(rb.velocity);
-        float yValue = Mathf.Clamp(rb.position.y, -1.9f, 4.222464f);
-        float  xValue = Mathf.Clamp(rb.position.x, -9.21339f, 9.268325f);
+         int y = SceneManager.GetActiveScene().buildIndex;
+         if (y==1)
+         {
+             Debug.Log("Game level 1");
+            yValue = Mathf.Clamp(rb.position.y, -1.9f, 4.222464f);
+            xValue = Mathf.Clamp(rb.position.x, -9.21339f, 9.268325f);
+         }
+         else if (y==2)
+         {
+             Debug.Log("Game level 2");
+            yValue = Mathf.Clamp(rb.position.y, -4.445691f, 6.316514f);
+            xValue = Mathf.Clamp(rb.position.x, -8.785898f, 8.784029f);
+         }
+        
 
         rb.position = new Vector2(xValue, yValue);
 
