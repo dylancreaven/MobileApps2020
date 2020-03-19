@@ -22,7 +22,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] private AudioClip hitPlayer;
     // sounds for getting hit by bullet, spawning
     [SerializeField] private AudioClip dieSound;
-    [SerializeField] private AudioClip gameOver;
+   
 
     private SoundController sc;
     private MusicPlayer mp;
@@ -56,8 +56,8 @@ public class Enemy : MonoBehaviour
             Destroy(player.gameObject);
             if(mp)
             {
-                mp.PlayOneShot(hitPlayer);
-                mp.PlayOneShot(gameOver);
+               mp.PlayOneShot(hitPlayer);
+               mp.StopMusic();
 
             }
             if(scene){

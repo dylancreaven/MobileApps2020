@@ -20,13 +20,13 @@ public class MusicPlayer : MonoBehaviour
     {
         if(clip)
         {
+            audioSource.volume=0.23f;
             audioSource.PlayOneShot(clip);
         }
     }
     public void StopMusic(){
 
-        //Debug.Log("Inside StopMusic()");
-        audioSource.volume=0.0f;
+        audioSource.volume=0.00f;
     }
     public void ToggleSounds()
     {

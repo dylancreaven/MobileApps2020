@@ -4826,20 +4826,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3daa61cacab8db4e9256a87a98405df, type: 3}
---- !u!1 &1084266648 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9078911101252854539, guid: a25c8cc8ffe799d45be1559a05dce790,
-    type: 3}
-  m_PrefabInstance: {fileID: 8385817589699148791}
-  m_PrefabAsset: {fileID: 0}
---- !u!81 &1084266649
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1084266648}
-  m_Enabled: 1
 --- !u!1 &1088082612
 GameObject:
   m_ObjectHideFlags: 0
@@ -5166,12 +5152,12 @@ PrefabInstance:
     - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
         type: 3}
       propertyPath: orthographic
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
         type: 3}
       propertyPath: field of view
-      value: 78.6
+      value: 65.3
       objectReference: {fileID: 0}
     - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
         type: 3}
@@ -7271,7 +7257,7 @@ PrefabInstance:
     - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 473
+      value: 493
       objectReference: {fileID: 0}
     - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
@@ -7281,17 +7267,17 @@ PrefabInstance:
     - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 270
+      value: 174
       objectReference: {fileID: 0}
     - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
       propertyPath: m_text
-      value: default
+      value: 123
       objectReference: {fileID: 0}
     - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
@@ -7311,7 +7297,7 @@ PrefabInstance:
     - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}
       propertyPath: m_margin.z
-      value: 99.36761
+      value: 205.79085
       objectReference: {fileID: 0}
     - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
         type: 3}

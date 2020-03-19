@@ -46,12 +46,11 @@ public class GameController : MonoBehaviour
         playerScore += enemy.ScoreValue;
         UpdateScore();
        
-            if(playerScore==500)
+            if(playerScore==300)
             {
                 Time.timeScale = 0;
                 if(mp)
                 {
-                    
                     mp.StopMusic();
                 }
                 

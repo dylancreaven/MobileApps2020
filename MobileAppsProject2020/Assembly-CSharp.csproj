@@ -53,6 +53,7 @@
      <Compile Include="Assets\__Scripts\Enemy\Enemy.cs" />
      <Compile Include="Assets\__Scripts\Enemy\EnemyBehaviour.cs" />
      <Compile Include="Assets\__Scripts\General\Continue.cs" />
+     <Compile Include="Assets\__Scripts\General\GameOver.cs" />
      <Compile Include="Assets\__Scripts\General\PointSpawners.cs" />
      <Compile Include="Assets\__Scripts\General\SpawnPoint.cs" />
      <Compile Include="Assets\__Scripts\Player\Bullet.cs" />
