@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;    // text mesh pro library
-
+using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     //== private fields ==
@@ -13,19 +13,16 @@ public class GameController : MonoBehaviour
     [SerializeField] private TextMeshProUGUI scoreText;
     private SceneController scene;
     private MusicPlayer mp;
-
+  
     
     //public properties
 
    
     // == private methods ==
-    private void Awake()
-    {
-      
-    }
     private void Start()
     {
-         Time.timeScale = 1;
+       
+        Time.timeScale = 1;
         UpdateScore();
         scene = SceneController.FindSceneController();
         mp = MusicPlayer.FindMusicPlayer();
@@ -48,20 +45,22 @@ public class GameController : MonoBehaviour
          
         playerScore += enemy.ScoreValue;
         UpdateScore();
-        if(playerScore==30)
-        {
-            Time.timeScale = 0;
-            if(mp)
+       
+            if(playerScore==30)
             {
+                Time.timeScale = 0;
+                if(mp)
+                {
+                    
+                    mp.StopMusic();
+                }
                 
-                mp.StopMusic();
-            }
-                
-            scene.LevelCompleted();
-        }
-        
             
+                scene.LevelCompleted();
+            }
         
+        
+
     }
 
     private void UpdateScore()

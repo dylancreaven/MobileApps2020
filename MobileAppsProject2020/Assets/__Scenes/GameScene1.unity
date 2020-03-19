@@ -4826,6 +4826,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3daa61cacab8db4e9256a87a98405df, type: 3}
+--- !u!1 &1084266648 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9078911101252854539, guid: a25c8cc8ffe799d45be1559a05dce790,
+    type: 3}
+  m_PrefabInstance: {fileID: 8385817589699148791}
+  m_PrefabAsset: {fileID: 0}
+--- !u!81 &1084266649
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084266648}
+  m_Enabled: 1
 --- !u!1 &1088082612
 GameObject:
   m_ObjectHideFlags: 0
@@ -4992,7 +5006,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameMusic: {fileID: 8300000, guid: 928ccc25b086d2d4eae81c007f5e6b3e, type: 3}
-  stop: {fileID: 8300000, guid: 3bc427bbba668cf44b433822f24dc7d1, type: 3}
 --- !u!4 &1293011981 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2375761144597227094, guid: e3daa61cacab8db4e9256a87a98405df,
@@ -7456,7 +7469,7 @@ PrefabInstance:
     - target: {fileID: 8371631652721797527, guid: a25c8cc8ffe799d45be1559a05dce790,
         type: 3}
       propertyPath: m_PlayOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9078911101252854539, guid: a25c8cc8ffe799d45be1559a05dce790,
         type: 3}

@@ -48,44 +48,25 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D hitEnemy)
     {
-        var player = hitEnemy.GetComponent<Player>();
         var bullet = hitEnemy.GetComponent<Bullet>();
-        
+        var player = hitEnemy.GetComponent<Player>();
         if(player)  
         {
            
-           //Debug.Log("DEBUG: HIT PLAYER - DO STUFF HERE");
-           if(mp)
-           {
-               //Debug.Log("StopMusic");
-               mp.StopMusic();
-
-           }
-           //Game Over Scene Pops Up!
-            if(scene)
+            Destroy(player.gameObject);
+            if(mp)
             {
-                //Debug.Log("Scene.GameOver()");
-                scene.GameOver();
-            }
-
-            if(sc)
-            {
-               // Debug.Log("Inside playSound(hitPlayer)");
-                PlaySound(hitPlayer);
+                mp.PlayOneShot(hitPlayer);
+                mp.PlayOneShot(gameOver);
 
             }
-            Destroy(player.gameObject);//kill player
-            if(sc)
-            {
-                 PlaySound(gameOver);
+            if(scene){
+
+                    scene.GameOver();
 
             }
-            
 
-            
-            
         }
-
         if(bullet)
         {
            

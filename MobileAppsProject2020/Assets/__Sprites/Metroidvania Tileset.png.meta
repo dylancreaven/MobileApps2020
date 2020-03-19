@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: fa4d040a6c44d394aa540bd30f5a3389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4411991590033961921
+    second: Metroidvania Tileset_0
+  - first:
+      213: 7825845791373157169
+    second: Metroidvania Tileset_1
+  - first:
+      213: -1968401132489751032
+    second: Metroidvania Tileset_2
+  - first:
+      213: 6583269372442275396
+    second: Metroidvania Tileset_3
+  - first:
+      213: 2138941772721999023
+    second: Metroidvania Tileset_4
+  - first:
+      213: 3086756867431734732
+    second: Metroidvania Tileset_5
+  - first:
+      213: 6268063242313642104
+    second: Metroidvania Tileset_6
+  - first:
+      213: -5274755872029844921
+    second: Metroidvania Tileset_7
+  - first:
+      213: 2095959623717233442
+    second: Metroidvania Tileset_8
+  - first:
+      213: 5512373374323390671
+    second: Metroidvania Tileset_9
+  - first:
+      213: 4168041956253430038
+    second: Metroidvania Tileset_10
+  - first:
+      213: 7505550474132633857
+    second: Metroidvania Tileset_11
+  - first:
+      213: 1400656698349689858
+    second: Metroidvania Tileset_12
+  - first:
+      213: 4657774534245630483
+    second: Metroidvania Tileset_13
+  - first:
+      213: 6845699920863125221
+    second: Metroidvania Tileset_14
+  - first:
+      213: 4965613751190838140
+    second: Metroidvania Tileset_15
+  - first:
+      213: -4550015871869142510
+    second: Metroidvania Tileset_16
+  - first:
+      213: 3070564426916626317
+    second: Metroidvania Tileset_17
+  - first:
+      213: -4217117886582447252
+    second: Metroidvania Tileset_18
+  - first:
+      213: -2117486450493438236
+    second: Metroidvania Tileset_19
+  - first:
+      213: 6683502887428618533
+    second: Metroidvania Tileset_20
+  - first:
+      213: 7484557746888268430
+    second: Metroidvania Tileset_21
+  - first:
+      213: -5666249150442944736
+    second: Metroidvania Tileset_22
+  - first:
+      213: -1529420982480687008
+    second: Metroidvania Tileset_23
+  - first:
+      213: 86647762228132331
+    second: Metroidvania Tileset_24
+  - first:
+      213: 5544126140575165529
+    second: Metroidvania Tileset_25
+  - first:
+      213: 2050335138894304900
+    second: Metroidvania Tileset_26
+  - first:
+      213: 9220845622864814610
+    second: Metroidvania Tileset_27
+  - first:
+      213: -3494779748044652846
+    second: Metroidvania Tileset_28
+  - first:
+      213: 7091717228776888604
+    second: Metroidvania Tileset_29
+  - first:
+      213: -1590739451737403570
+    second: Metroidvania Tileset_30
+  - first:
+      213: 3411435547850956994
+    second: Metroidvania Tileset_31
+  - first:
+      213: -3498168739228625242
+    second: Metroidvania Tileset_32
+  - first:
+      213: -4334788918216615428
+    second: Metroidvania Tileset_33
+  - first:
+      213: 2767019694256170497
+    second: Metroidvania Tileset_34
+  - first:
+      213: -557750614947637668
+    second: Metroidvania Tileset_35
+  - first:
+      213: 7240619464209553682
+    second: Metroidvania Tileset_36
+  - first:
+      213: 1169629996500209533
+    second: Metroidvania Tileset_37
+  - first:
+      213: -1616721497735931568
+    second: Metroidvania Tileset_38
+  - first:
+      213: 8858837012206573446
+    second: Metroidvania Tileset_39
+  - first:
+      213: 6392909503073309750
+    second: Metroidvania Tileset_40
+  - first:
+      213: -9067759258222257277
+    second: Metroidvania Tileset_41
+  - first:
+      213: 6469064224638622269
+    second: Metroidvania Tileset_42
+  - first:
+      213: 3728388390065762615
+    second: Metroidvania Tileset_43
+  - first:
+      213: 91605069992263359
+    second: Metroidvania Tileset_44
+  - first:
+      213: 9152852457172194857
+    second: Metroidvania Tileset_45
+  - first:
+      213: 6405853853805679793
+    second: Metroidvania Tileset_46
+  - first:
+      213: -8952345739193545884
+    second: Metroidvania Tileset_47
+  - first:
+      213: 922767415463975791
+    second: Metroidvania Tileset_48
+  - first:
+      213: -1353921789839553492
+    second: Metroidvania Tileset_49
+  - first:
+      213: 8129029606710717872
+    second: Metroidvania Tileset_50
+  - first:
+      213: -3533387920937260781
+    second: Metroidvania Tileset_51
+  - first:
+      213: -3992236523632446403
+    second: Metroidvania Tileset_52
+  - first:
+      213: -2485107603133774871
+    second: Metroidvania Tileset_53
+  - first:
+      213: 2278435897096935826
+    second: Metroidvania Tileset_54
+  - first:
+      213: 5535661289837410974
+    second: Metroidvania Tileset_55
+  - first:
+      213: -1504529207485843595
+    second: Metroidvania Tileset_56
+  - first:
+      213: -154741442271706037
+    second: Metroidvania Tileset_57
+  - first:
+      213: -8320776281483681263
+    second: Metroidvania Tileset_58
+  - first:
+      213: -7337397523530371568
+    second: Metroidvania Tileset_59
+  - first:
+      213: -8342544682588367266
+    second: Metroidvania Tileset_60
+  - first:
+      213: -646943531252473624
+    second: Metroidvania Tileset_61
+  - first:
+      213: 2071516498225792982
+    second: Metroidvania Tileset_62
+  - first:
+      213: -8126003030752608643
+    second: Metroidvania Tileset_63
+  - first:
+      213: -1296571432739620418
+    second: Metroidvania Tileset_64
+  - first:
+      213: -4438542561595904510
+    second: Metroidvania Tileset_65
+  - first:
+      213: 7243718498836496297
+    second: Metroidvania Tileset_66
+  - first:
+      213: -3431540101596290881
+    second: Metroidvania Tileset_67
+  - first:
+      213: 3788214759307228117
+    second: Metroidvania Tileset_68
+  - first:
+      213: -3684424893669534177
+    second: Metroidvania Tileset_69
+  - first:
+      213: 202723405855100275
+    second: Metroidvania Tileset_70
+  - first:
+      213: 2755740558693185452
+    second: Metroidvania Tileset_71
+  - first:
+      213: -943105479657048495
+    second: Metroidvania Tileset_72
+  - first:
+      213: 7194440356104293839
+    second: Metroidvania Tileset_73
+  - first:
+      213: -5015373044596926892
+    second: Metroidvania Tileset_74
+  - first:
+      213: 5916974758187214010
+    second: Metroidvania Tileset_75
+  - first:
+      213: -1058533091379358936
+    second: Metroidvania Tileset_76
+  - first:
+      213: 8582066696462301232
+    second: Metroidvania Tileset_77
+  - first:
+      213: -3696500734692442904
+    second: Metroidvania Tileset_78
+  - first:
+      213: 5005342768408130690
+    second: Metroidvania Tileset_79
+  - first:
+      213: 3610764105543819916
+    second: Metroidvania Tileset_80
+  - first:
+      213: 5549283466857551187
+    second: Metroidvania Tileset_81
+  - first:
+      213: -1256761892392466029
+    second: Metroidvania Tileset_82
+  - first:
+      213: -6104274892714569741
+    second: Metroidvania Tileset_83
+  - first:
+      213: 8079582213033858626
+    second: Metroidvania Tileset_84
+  - first:
+      213: 8109962850705155571
+    second: Metroidvania Tileset_85
+  - first:
+      213: 7514851671146165184
+    second: Metroidvania Tileset_86
+  - first:
+      213: -3342554057256002892
+    second: Metroidvania Tileset_87
+  - first:
+      213: -7405287559102736949
+    second: Metroidvania Tileset_88
+  - first:
+      213: 5050251987439122041
+    second: Metroidvania Tileset_89
+  - first:
+      213: -9117985876970185795
+    second: Metroidvania Tileset_90
+  - first:
+      213: -8217247991454754879
+    second: Metroidvania Tileset_91
+  - first:
+      213: 1925869919594942888
+    second: Metroidvania Tileset_92
+  - first:
+      213: 2848880182907564627
+    second: Metroidvania Tileset_93
+  - first:
+      213: 7898431354769475813
+    second: Metroidvania Tileset_94
+  - first:
+      213: -1146366500208212365
+    second: Metroidvania Tileset_95
+  - first:
+      213: -7689183764918069319
+    second: Metroidvania Tileset_96
+  - first:
+      213: 2815438397492656558
+    second: Metroidvania Tileset_97
+  - first:
+      213: 2702286648831113483
+    second: Metroidvania Tileset_98
+  - first:
+      213: -6135558060774980061
+    second: Metroidvania Tileset_99
+  - first:
+      213: 2147639272919162858
+    second: Metroidvania Tileset_100
+  - first:
+      213: 7238248157983034821
+    second: Metroidvania Tileset_101
+  - first:
+      213: 290620221998473766
+    second: Metroidvania Tileset_102
+  - first:
+      213: -4013178365143777205
+    second: Metroidvania Tileset_103
+  - first:
+      213: -1770897266603187587
+    second: Metroidvania Tileset_104
+  - first:
+      213: -5056033520411362802
+    second: Metroidvania Tileset_105
+  - first:
+      213: 4405903157297885244
+    second: Metroidvania Tileset_106
+  - first:
+      213: -967742534570874982
+    second: Metroidvania Tileset_107
+  - first:
+      213: 4623215752452105664
+    second: Metroidvania Tileset_108
+  - first:
+      213: 2961049885819153840
+    second: Metroidvania Tileset_109
+  - first:
+      213: -1898218730396917218
+    second: Metroidvania Tileset_110
+  - first:
+      213: -6757508115176333820
+    second: Metroidvania Tileset_111
+  - first:
+      213: -2451005456257806056
+    second: Metroidvania Tileset_112
+  - first:
+      213: -259085904116781605
+    second: Metroidvania Tileset_113
+  - first:
+      213: 8716035767820927595
+    second: Metroidvania Tileset_114
+  - first:
+      213: -3025105350635647891
+    second: Metroidvania Tileset_115
+  - first:
+      213: -3081706052832705966
+    second: Metroidvania Tileset_116
+  - first:
+      213: 2149228307730547927
+    second: Metroidvania Tileset_117
+  - first:
+      213: 8030005445791169527
+    second: Metroidvania Tileset_118
+  - first:
+      213: 5502141979647920183
+    second: Metroidvania Tileset_119
+  - first:
+      213: -4750876524426420796
+    second: Metroidvania Tileset_120
+  - first:
+      213: 7678180633215451661
+    second: Metroidvania Tileset_121
+  - first:
+      213: 4698912011252020746
+    second: Metroidvania Tileset_122
+  - first:
+      213: 4827204730140244695
+    second: Metroidvania Tileset_123
+  - first:
+      213: 2090754719886882977
+    second: Metroidvania Tileset_124
+  - first:
+      213: -824268298429439040
+    second: Metroidvania Tileset_125
+  - first:
+      213: 982173955822888853
+    second: Metroidvania Tileset_126
+  - first:
+      213: -8398703947335845974
+    second: Metroidvania Tileset_127
+  - first:
+      213: -4811794213376983119
+    second: Metroidvania Tileset_128
+  - first:
+      213: 8443825343704790167
+    second: Metroidvania Tileset_129
+  - first:
+      213: -7496951659358839233
+    second: Metroidvania Tileset_130
+  - first:
+      213: 5401859111396207302
+    second: Metroidvania Tileset_131
+  - first:
+      213: 8346047633383112635
+    second: Metroidvania Tileset_132
+  - first:
+      213: -5055285296506452819
+    second: Metroidvania Tileset_133
+  - first:
+      213: 7963285806909173946
+    second: Metroidvania Tileset_134
+  - first:
+      213: 3507999374500731299
+    second: Metroidvania Tileset_135
+  - first:
+      213: -7697494195816450906
+    second: Metroidvania Tileset_136
+  - first:
+      213: -8181036714189561713
+    second: Metroidvania Tileset_137
+  - first:
+      213: -2905960228087119196
+    second: Metroidvania Tileset_138
+  - first:
+      213: -8516536754955582445
+    second: Metroidvania Tileset_139
+  - first:
+      213: 52659616130993312
+    second: Metroidvania Tileset_140
+  - first:
+      213: -9214792241942245752
+    second: Metroidvania Tileset_141
+  - first:
+      213: -9099458000862934208
+    second: Metroidvania Tileset_142
+  - first:
+      213: 3795545794609976689
+    second: Metroidvania Tileset_143
+  - first:
+      213: -3293110856335243470
+    second: Metroidvania Tileset_144
+  - first:
+      213: -3710189077827370143
+    second: Metroidvania Tileset_145
+  - first:
+      213: -4597639922344721459
+    second: Metroidvania Tileset_146
+  - first:
+      213: 8146249064395801663
+    second: Metroidvania Tileset_147
+  - first:
+      213: -1339906823499883938
+    second: Metroidvania Tileset_148
+  - first:
+      213: 4234396948197757633
+    second: Metroidvania Tileset_149
+  - first:
+      213: -4500502283903756960
+    second: Metroidvania Tileset_150
+  - first:
+      213: -3148876300038660258
+    second: Metroidvania Tileset_151
+  - first:
+      213: -8352561472572307157
+    second: Metroidvania Tileset_152
+  - first:
+      213: 4895013245338082314
+    second: Metroidvania Tileset_153
+  - first:
+      213: 8161140123245445912
+    second: Metroidvania Tileset_154
+  - first:
+      213: 7638997547813961696
+    second: Metroidvania Tileset_155
+  - first:
+      213: 2590359423204332247
+    second: Metroidvania Tileset_156
+  - first:
+      213: -5610184494388823935
+    second: Metroidvania Tileset_157
+  - first:
+      213: 7500115889629219747
+    second: Metroidvania Tileset_158
+  - first:
+      213: -7950500416630768073
+    second: Metroidvania Tileset_159
+  - first:
+      213: -730151976579750002
+    second: Metroidvania Tileset_160
+  - first:
+      213: 8478664515673116148
+    second: Metroidvania Tileset_161
+  - first:
+      213: -7759407075850717748
+    second: Metroidvania Tileset_162
+  - first:
+      213: 8241574613172681187
+    second: Metroidvania Tileset_163
+  - first:
+      213: -8821709915422668367
+    second: Metroidvania Tileset_164
+  - first:
+      213: 1261916972054907626
+    second: Metroidvania Tileset_165
+  - first:
+      213: -7916033271958677064
+    second: Metroidvania Tileset_166
+  - first:
+      213: -5312571774555710024
+    second: Metroidvania Tileset_167
+  - first:
+      213: 47950161504439568
+    second: Metroidvania Tileset_168
+  - first:
+      213: -3188836388807481520
+    second: Metroidvania Tileset_169
+  - first:
+      213: 2118136480762658557
+    second: Metroidvania Tileset_170
+  - first:
+      213: 8514155915467800723
+    second: Metroidvania Tileset_171
+  - first:
+      213: -7876009574270078736
+    second: Metroidvania Tileset_0
+  - first:
+      213: 5749329467430276223
+    second: Metroidvania Tileset_1
+  - first:
+      213: -6170669860816761612
+    second: Metroidvania Tileset_2
+  - first:
+      213: 4790621870877399932
+    second: Metroidvania Tileset_3
+  - first:
+      213: -2296685755051570792
+    second: Metroidvania Tileset_4
+  - first:
+      213: 9066608944918933006
+    second: Metroidvania Tileset_5
+  - first:
+      213: 8134022068229513440
+    second: Metroidvania Tileset_6
+  - first:
+      213: 399189000989921743
+    second: Metroidvania Tileset_7
+  - first:
+      213: -1625926140801834636
+    second: Metroidvania Tileset_8
+  - first:
+      213: -7110223578107362211
+    second: Metroidvania Tileset_9
+  - first:
+      213: 8131810032881660900
+    second: Metroidvania Tileset_10
+  - first:
+      213: -561569324666979674
+    second: Metroidvania Tileset_11
+  - first:
+      213: 5057758267328169248
+    second: Metroidvania Tileset_12
+  - first:
+      213: -1361643809381732553
+    second: Metroidvania Tileset_13
+  - first:
+      213: -2497896205351749931
+    second: Metroidvania Tileset_14
+  - first:
+      213: -4765799332869249298
+    second: Metroidvania Tileset_15
+  - first:
+      213: -4445766967583347072
+    second: Metroidvania Tileset_16
+  - first:
+      213: 3112276864506201245
+    second: Metroidvania Tileset_17
+  - first:
+      213: -5691941756465658573
+    second: Metroidvania Tileset_18
+  - first:
+      213: 1583834249611706628
+    second: Metroidvania Tileset_19
+  - first:
+      213: 8341992446672803523
+    second: Metroidvania Tileset_20
+  - first:
+      213: 4758722782565026982
+    second: Metroidvania Tileset_21
+  - first:
+      213: 6586882655123909096
+    second: Metroidvania Tileset_22
+  - first:
+      213: -6910445548284843709
+    second: Metroidvania Tileset_23
+  - first:
+      213: -2918443473602663776
+    second: Metroidvania Tileset_24
+  - first:
+      213: -5787949818719814548
+    second: Metroidvania Tileset_25
+  - first:
+      213: -3100258241308083835
+    second: Metroidvania Tileset_26
+  - first:
+      213: 1161370877743944894
+    second: Metroidvania Tileset_27
+  - first:
+      213: -3870585472579250185
+    second: Metroidvania Tileset_28
+  - first:
+      213: -5898349889488844320
+    second: Metroidvania Tileset_29
+  - first:
+      213: -8765181408005398389
+    second: Metroidvania Tileset_30
+  - first:
+      213: -3459049520721040444
+    second: Metroidvania Tileset_31
+  - first:
+      213: -7547151087839208645
+    second: Metroidvania Tileset_32
+  - first:
+      213: 6097745635256522903
+    second: Metroidvania Tileset_33
+  - first:
+      213: -1312884957985936064
+    second: Metroidvania Tileset_34
+  - first:
+      213: 296211486534291347
+    second: Metroidvania Tileset_35
+  - first:
+      213: 6476524647428478825
+    second: Metroidvania Tileset_36
+  - first:
+      213: 6650688223145712619
+    second: Metroidvania Tileset_37
+  - first:
+      213: 2217002105515219413
+    second: Metroidvania Tileset_38
+  - first:
+      213: -3785601090402278771
+    second: Metroidvania Tileset_39
+  - first:
+      213: -6361836748834231561
+    second: Metroidvania Tileset_40
+  - first:
+      213: 7539903253715608442
+    second: Metroidvania Tileset_41
+  - first:
+      213: 5323194110205592131
+    second: Metroidvania Tileset_42
+  - first:
+      213: -602870711164546147
+    second: Metroidvania Tileset_43
+  - first:
+      213: 6813463581581831823
+    second: Metroidvania Tileset_44
+  - first:
+      213: -9014481286403991883
+    second: Metroidvania Tileset_45
+  - first:
+      213: -4943666192714905237
+    second: Metroidvania Tileset_46
+  - first:
+      213: -6159385292188184432
+    second: Metroidvania Tileset_47
+  - first:
+      213: 5109968226676232349
+    second: Metroidvania Tileset_48
+  - first:
+      213: -2639320334114779567
+    second: Metroidvania Tileset_49
+  - first:
+      213: -7512594376111424207
+    second: Metroidvania Tileset_50
+  - first:
+      213: -2859806310703056567
+    second: Metroidvania Tileset_51
+  - first:
+      213: -779142922486215798
+    second: Metroidvania Tileset_52
+  - first:
+      213: -2612474137131178489
+    second: Metroidvania Tileset_53
+  - first:
+      213: 7830922965583078547
+    second: Metroidvania Tileset_54
+  - first:
+      213: -2135181634400528725
+    second: Metroidvania Tileset_55
+  - first:
+      213: -1688518428777505044
+    second: Metroidvania Tileset_56
+  - first:
+      213: 2332956965624377452
+    second: Metroidvania Tileset_57
+  - first:
+      213: 6506736417659232225
+    second: Metroidvania Tileset_58
+  - first:
+      213: 6523305727576724101
+    second: Metroidvania Tileset_59
+  - first:
+      213: -1778000690896548217
+    second: Metroidvania Tileset_60
+  - first:
+      213: -1793759392662638662
+    second: Metroidvania Tileset_61
+  - first:
+      213: 3536576685507725123
+    second: Metroidvania Tileset_62
+  - first:
+      213: 4852154318747325860
+    second: Metroidvania Tileset_63
+  - first:
+      213: -9123268102036859679
+    second: Metroidvania Tileset_64
+  - first:
+      213: 8654800674901332656
+    second: Metroidvania Tileset_65
+  - first:
+      213: 5632629321767010842
+    second: Metroidvania Tileset_66
+  - first:
+      213: 6283976287893661648
+    second: Metroidvania Tileset_67
+  - first:
+      213: 5149127812581706504
+    second: Metroidvania Tileset_68
+  - first:
+      213: 5338514748360248633
+    second: Metroidvania Tileset_69
+  - first:
+      213: -2950392348274413231
+    second: Metroidvania Tileset_70
+  - first:
+      213: 6673314067292961735
+    second: Metroidvania Tileset_71
+  - first:
+      213: -1737742959733244077
+    second: Metroidvania Tileset_72
+  - first:
+      213: -4275443101059988350
+    second: Metroidvania Tileset_73
+  - first:
+      213: -639323025972646777
+    second: Metroidvania Tileset_74
+  - first:
+      213: 7619623669762258750
+    second: Metroidvania Tileset_75
+  - first:
+      213: -5028193646741990998
+    second: Metroidvania Tileset_76
+  - first:
+      213: -7048363246648796554
+    second: Metroidvania Tileset_77
+  - first:
+      213: 2338457646377457468
+    second: Metroidvania Tileset_78
+  - first:
+      213: 8458163275029480054
+    second: Metroidvania Tileset_79
+  - first:
+      213: 4468112770242441542
+    second: Metroidvania Tileset_80
+  - first:
+      213: -858332503317743802
+    second: Metroidvania Tileset_81
+  - first:
+      213: 5600786043424923717
+    second: Metroidvania Tileset_82
+  - first:
+      213: 6885176038279322638
+    second: Metroidvania Tileset_83
+  - first:
+      213: 4397321432148864371
+    second: Metroidvania Tileset_84
+  - first:
+      213: 2099865568775469945
+    second: Metroidvania Tileset_85
+  - first:
+      213: 653835391370845872
+    second: Metroidvania Tileset_86
+  - first:
+      213: 8527073289166964903
+    second: Metroidvania Tileset_87
+  - first:
+      213: -7085684648243717027
+    second: Metroidvania Tileset_88
+  - first:
+      213: 4396649748525734725
+    second: Metroidvania Tileset_89
+  - first:
+      213: 447817986494164498
+    second: Metroidvania Tileset_90
+  - first:
+      213: -5361876806554124239
+    second: Metroidvania Tileset_91
+  - first:
+      213: -5595187019277900591
+    second: Metroidvania Tileset_92
+  - first:
+      213: 1073287540084400860
+    second: Metroidvania Tileset_93
+  - first:
+      213: 6745499654751291230
+    second: Metroidvania Tileset_94
+  - first:
+      213: -6457436403937872012
+    second: Metroidvania Tileset_95
+  - first:
+      213: -6921620077203789395
+    second: Metroidvania Tileset_96
+  - first:
+      213: -2118365490313391537
+    second: Metroidvania Tileset_97
+  - first:
+      213: 973207001662155060
+    second: Metroidvania Tileset_98
+  - first:
+      213: 5734352057026994102
+    second: Metroidvania Tileset_99
+  - first:
+      213: 5692565500365561458
+    second: Metroidvania Tileset_100
+  - first:
+      213: -1796575724476169214
+    second: Metroidvania Tileset_101
+  - first:
+      213: 3580834115220502924
+    second: Metroidvania Tileset_102
+  - first:
+      213: -6097911466235513704
+    second: Metroidvania Tileset_103
+  - first:
+      213: 5838154035920585864
+    second: Metroidvania Tileset_104
+  - first:
+      213: -7459578256188765131
+    second: Metroidvania Tileset_105
+  - first:
+      213: -1636782448326209513
+    second: Metroidvania Tileset_106
+  - first:
+      213: 3688408429122799580
+    second: Metroidvania Tileset_107
+  - first:
+      213: 3483831919853129305
+    second: Metroidvania Tileset_108
+  - first:
+      213: -4134285702493106895
+    second: Metroidvania Tileset_109
+  - first:
+      213: 2226057078789290514
+    second: Metroidvania Tileset_110
+  - first:
+      213: -1784742599581188744
+    second: Metroidvania Tileset_111
+  - first:
+      213: -4813452695635508026
+    second: Metroidvania Tileset_112
+  - first:
+      213: 3683363295109856666
+    second: Metroidvania Tileset_113
+  - first:
+      213: 2815293659477444778
+    second: Metroidvania Tileset_114
+  - first:
+      213: 4496540466804562912
+    second: Metroidvania Tileset_115
+  - first:
+      213: -2256212638366600274
+    second: Metroidvania Tileset_116
+  - first:
+      213: 8669238982711839657
+    second: Metroidvania Tileset_117
+  - first:
+      213: 645430443124745162
+    second: Metroidvania Tileset_118
+  - first:
+      213: 7449202587609819271
+    second: Metroidvania Tileset_119
+  - first:
+      213: 1774001896152576375
+    second: Metroidvania Tileset_120
+  - first:
+      213: -691590863650311675
+    second: Metroidvania Tileset_121
+  - first:
+      213: -8905643175855255150
+    second: Metroidvania Tileset_122
+  - first:
+      213: -1873609945672638494
+    second: Metroidvania Tileset_123
+  - first:
+      213: -386783131154179471
+    second: Metroidvania Tileset_124
+  - first:
+      213: 3582078817659883156
+    second: Metroidvania Tileset_125
+  - first:
+      213: -1098089335871973817
+    second: Metroidvania Tileset_126
+  - first:
+      213: 4499023150537019114
+    second: Metroidvania Tileset_127
+  - first:
+      213: 1611596073278391993
+    second: Metroidvania Tileset_128
+  - first:
+      213: 8605705598092345424
+    second: Metroidvania Tileset_129
+  - first:
+      213: -3085374659366799348
+    second: Metroidvania Tileset_130
+  - first:
+      213: 6893666509382057223
+    second: Metroidvania Tileset_131
+  - first:
+      213: 450222155086083626
+    second: Metroidvania Tileset_132
+  - first:
+      213: 5788145821323954611
+    second: Metroidvania Tileset_133
+  - first:
+      213: -6772235337704124298
+    second: Metroidvania Tileset_134
+  - first:
+      213: 5411453092725256754
+    second: Metroidvania Tileset_135
+  - first:
+      213: -6600025048811340407
+    second: Metroidvania Tileset_136
+  - first:
+      213: -6059048017349907055
+    second: Metroidvania Tileset_137
+  - first:
+      213: -5257293733738117909
+    second: Metroidvania Tileset_138
+  - first:
+      213: 597276405820411279
+    second: Metroidvania Tileset_139
+  - first:
+      213: -4505284000885473740
+    second: Metroidvania Tileset_140
+  - first:
+      213: 6043647027337693825
+    second: Metroidvania Tileset_141
+  - first:
+      213: -1379624730523677737
+    second: Metroidvania Tileset_142
+  - first:
+      213: 352601361258517250
+    second: Metroidvania Tileset_143
+  - first:
+      213: -6868855989104904019
+    second: Metroidvania Tileset_144
+  - first:
+      213: 1858430819476725258
+    second: Metroidvania Tileset_145
+  - first:
+      213: 8129634855189392605
+    second: Metroidvania Tileset_146
+  - first:
+      213: -3057109333721524633
+    second: Metroidvania Tileset_147
+  - first:
+      213: -7326184636734028331
+    second: Metroidvania Tileset_148
+  - first:
+      213: -3561137033319085210
+    second: Metroidvania Tileset_149
+  - first:
+      213: 4433544094778766245
+    second: Metroidvania Tileset_150
+  - first:
+      213: -7780003715289025244
+    second: Metroidvania Tileset_151
+  - first:
+      213: -3382309864833025531
+    second: Metroidvania Tileset_152
+  - first:
+      213: 7468061598914925889
+    second: Metroidvania Tileset_153
+  - first:
+      213: 6213822569395781301
+    second: Metroidvania Tileset_154
+  - first:
+      213: 2581311271806114665
+    second: Metroidvania Tileset_155
+  - first:
+      213: -6626974681055632242
+    second: Metroidvania Tileset_156
+  - first:
+      213: -3391957405027329348
+    second: Metroidvania Tileset_157
+  - first:
+      213: 8609006128043594559
+    second: Metroidvania Tileset_158
+  - first:
+      213: -8088516416369729094
+    second: Metroidvania Tileset_159
+  - first:
+      213: 1508328372111761993
+    second: Metroidvania Tileset_160
+  - first:
+      213: 7984403692909757389
+    second: Metroidvania Tileset_161
+  - first:
+      213: 2673999170912856161
+    second: Metroidvania Tileset_162
+  - first:
+      213: 4013158003630614200
+    second: Metroidvania Tileset_163
+  - first:
+      213: -7628025130631010957
+    second: Metroidvania Tileset_164
+  - first:
+      213: 1103979822122554848
+    second: Metroidvania Tileset_165
+  - first:
+      213: 3357176464654265663
+    second: Metroidvania Tileset_166
+  - first:
+      213: 8767178037342448120
+    second: Metroidvania Tileset_167
+  - first:
+      213: 7273749910631691217
+    second: Metroidvania Tileset_168
+  - first:
+      213: 5970772282489997746
+    second: Metroidvania Tileset_169
+  - first:
+      213: -8921331704385677889
+    second: Metroidvania Tileset_170
+  - first:
+      213: 3376377529989279228
+    second: Metroidvania Tileset_171
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metroidvania Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07e06650bc2b290800000000000000
+      internalID: -7876009574270078736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0eda70b8b9cf40800000000000000
+      internalID: 5749329467430276223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccec784706d5aa0800000000000000
+      internalID: -6170669860816761612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5dd2b535bb7240800000000000000
+      internalID: 4790621870877399932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899837169788020e0800000000000000
+      internalID: -2296685755051570792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea5476cc013dd70800000000000000
+      internalID: 9066608944918933006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02204a9f9d1e070800000000000000
+      internalID: 8134022068229513440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15f3a08443a8500800000000000000
+      internalID: 399189000989921743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712c7a1acc8f69e0800000000000000
+      internalID: -1625926140801834636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cd49c359635d90800000000000000
+      internalID: -7110223578107362211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37ed6042ef9d070800000000000000
+      internalID: 8131810032881660900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf77eaca7e438f0800000000000000
+      internalID: -561569324666979674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02504e3d854c03640800000000000000
+      internalID: 5057758267328169248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f213f6b287a1de0800000000000000
+      internalID: -1361643809381732553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6763ab2a0b55dd0800000000000000
+      internalID: -2497896205351749931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e88dc1ca7cddb0800000000000000
+      internalID: -4765799332869249298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e67076f767d42c0800000000000000
+      internalID: -4445766967583347072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940f879157013b20800000000000000
+      internalID: 3112276864506201245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c6a331292201b0800000000000000
+      internalID: -5691941756465658573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010437cbd8eaf510800000000000000
+      internalID: 1583834249611706628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69ce6bee5b4c370800000000000000
+      internalID: 8341992446672803523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc85f68216a0240800000000000000
+      internalID: 4758722782565026982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a7d340ee496b50800000000000000
+      internalID: 6586882655123909096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496dce036a2910a0800000000000000
+      internalID: -6910445548284843709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa2bd29f1b9f77d0800000000000000
+      internalID: -2918443473602663776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3b654e421dafa0800000000000000
+      internalID: -5787949818719814548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589bade2e8ba9f4d0800000000000000
+      internalID: -3100258241308083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4596cf8a40e1010800000000000000
+      internalID: 1161370877743944894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7502a150be84ac0800000000000000
+      internalID: -3870585472579250185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98d0cb60ad42ea0800000000000000
+      internalID: -5898349889488844320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80eaf703f1db5680800000000000000
+      internalID: -8765181408005398389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbefe8a9ccfeffc0800000000000000
+      internalID: -3459049520721040444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b14277212234790800000000000000
+      internalID: -7547151087839208645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985728195b8f9450800000000000000
+      internalID: 6097745635256522903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6b403612b7cde0800000000000000
+      internalID: -1312884957985936064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f444117ca5c1400800000000000000
+      internalID: 296211486534291347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967590d4adc31e950800000000000000
+      internalID: 6476524647428478825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb597cb3bdfb4c50800000000000000
+      internalID: 6650688223145712619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d917853baf54ce10800000000000000
+      internalID: 2217002105515219413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ad318dd7d67bc0800000000000000
+      internalID: -3785601090402278771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa5b2fe2736b7a0800000000000000
+      internalID: -6361836748834231561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e786af0e13a860800000000000000
+      internalID: 7539903253715608442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428149f6d8cfd940800000000000000
+      internalID: 5323194110205592131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93dc87484c22a7f0800000000000000
+      internalID: -602870711164546147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eee3637094e8e50800000000000000
+      internalID: 6813463581581831823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6db71e70126e280800000000000000
+      internalID: -9014481286403991883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ce175ac1946bb0800000000000000
+      internalID: -4943666192714905237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909b58e5b7758aa0800000000000000
+      internalID: -6159385292188184432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d19447014ae640800000000000000
+      internalID: 5109968226676232349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8f9cc3204f5bd0800000000000000
+      internalID: -2639320334114779567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df746e737edb790800000000000000
+      internalID: -7512594376111424207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949bf14ff4def48d0800000000000000
+      internalID: -2859806310703056567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b03fbd3adef25f0800000000000000
+      internalID: -779142922486215798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a66f1d90aebbd0800000000000000
+      internalID: -2612474137131178489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394270b72f60dac60800000000000000
+      internalID: 7830922965583078547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65e9ebd9f4e52e0800000000000000
+      internalID: -2135181634400528725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee14086f6d2198e0800000000000000
+      internalID: -1688518428777505044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60705ceff3506020800000000000000
+      internalID: 2332956965624377452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1da53c429c4a50800000000000000
+      internalID: 6506736417659232225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825b7d4fff678a50800000000000000
+      internalID: 6523305727576724101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e46b8bac54357e0800000000000000
+      internalID: -1778000690896548217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa2db06594b17e0800000000000000
+      internalID: -1793759392662638662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347cd9402c1741130800000000000000
+      internalID: 3536576685507725123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5df4425a0565340800000000000000
+      internalID: 4852154318747325860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d0739ff3a36180800000000000000
+      internalID: -9123268102036859679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b21e45db570c1870800000000000000
+      internalID: 8654800674901332656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124f53768e1b2e40800000000000000
+      internalID: 5632629321767010842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d721e0d32b253750800000000000000
+      internalID: 6283976287893661648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b440cd670657740800000000000000
+      internalID: 5149127812581706504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d423401e6361a40800000000000000
+      internalID: 5338514748360248633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b2158ac91e07d0800000000000000
+      internalID: -2950392348274413231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3d9799cf5c9c50800000000000000
+      internalID: 6673314067292961735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff92e2cfb42e7e0800000000000000
+      internalID: -1737742959733244077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ccefd6239aa4c0800000000000000
+      internalID: -4275443101059988350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c2c2c581ba027f0800000000000000
+      internalID: -639323025972646777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37765e6b575eb960800000000000000
+      internalID: 7619623669762258750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15110d484483ab0800000000000000
+      internalID: -5028193646741990998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a549398fe2f2e90800000000000000
+      internalID: -7048363246648796554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37df96f6ded37020800000000000000
+      internalID: 2338457646377457468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67203647fae616570800000000000000
+      internalID: 8458163275029480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ffa634ece10e30800000000000000
+      internalID: 4468112770242441542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f298c2279614f0800000000000000
+      internalID: -858332503317743802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ee457b3df9bd40800000000000000
+      internalID: 5600786043424923717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9ba9a02f0d8f50800000000000000
+      internalID: 6885176038279322638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de1766b8c660d30800000000000000
+      internalID: 4397321432148864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7fe6fb98342d10800000000000000
+      internalID: 2099865568775469945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bedc3403d3e21900800000000000000
+      internalID: 653835391370845872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c4866aff365670800000000000000
+      internalID: 8527073289166964903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9efe9a579aad90800000000000000
+      internalID: -7085684648243717027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bdfaed6a9040d30800000000000000
+      internalID: 4396649748525734725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee3090618f63600800000000000000
+      internalID: 447817986494164498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308fefe379c695b0800000000000000
+      internalID: -5361876806554124239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d46010fc07e952b0800000000000000
+      internalID: -5595187019277900591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26598c45515ee00800000000000000
+      internalID: 1073287540084400860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5788f16234dc9d50800000000000000
+      internalID: 6745499654751291230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777b97bdc39266a0800000000000000
+      internalID: -6457436403937872012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96e0c463771ff90800000000000000
+      internalID: -6921620077203789395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f429c656fcd0a92e0800000000000000
+      internalID: -2118365490313391537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439eefa9c96818d00800000000000000
+      internalID: 973207001662155060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfdf1060d2849f40800000000000000
+      internalID: 5734352057026994102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edeed792e000f40800000000000000
+      internalID: 5692565500365561458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040282b5e74117e0800000000000000
+      internalID: -1796575724476169214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89715dd7ada1b130800000000000000
+      internalID: 3580834115220502924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894304f54dddf5ba0800000000000000
+      internalID: -6097911466235513704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844f0fe92a450150800000000000000
+      internalID: 5838154035920585864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c04a939114a7890800000000000000
+      internalID: -7459578256188765131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101ce8090bf849e0800000000000000
+      internalID: -1636782448326209513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cb6c9cebdf2330800000000000000
+      internalID: 3688408429122799580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e43084cae095030800000000000000
+      internalID: 3483831919853129305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0ce6de0110a6c0800000000000000
+      internalID: -4134285702493106895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21abaf67e1b84ee10800000000000000
+      internalID: 2226057078789290514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db478cf025b37e0800000000000000
+      internalID: -1784742599581188744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4cf7da64e233db0800000000000000
+      internalID: -4813452695635508026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3cbfc66fed1330800000000000000
+      internalID: 3683363295109856666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8009fcaaee11720800000000000000
+      internalID: 2815293659477444778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb1e0a1bbbe66e30800000000000000
+      internalID: 4496540466804562912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea379603f8250b0e0800000000000000
+      internalID: -2256212638366600274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab02855ce25f4870800000000000000
+      internalID: 8669238982711839657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36ca1819705f800800000000000000
+      internalID: 645430443124745162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788676e2942e06760800000000000000
+      internalID: 7449202587609819271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713b0353558e9810800000000000000
+      internalID: 1774001896152576375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b73216c9f666f0800000000000000
+      internalID: -691590863650311675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29114c637bcc86480800000000000000
+      internalID: -8905643175855255150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1b846ea99ff5e0800000000000000
+      internalID: -1873609945672638494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a117e9aced1aaf0800000000000000
+      internalID: -386783131154179471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e811cb4b916b130800000000000000
+      internalID: 3582078817659883156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d4b3219dc2c0f0800000000000000
+      internalID: -1098089335871973817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee8404f7bdbf6e30800000000000000
+      internalID: 4499023150537019114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b64c2d071a8d5610800000000000000
+      internalID: 1611596073278391993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05082ef75ab9d6770800000000000000
+      internalID: 8605705598092345424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083375281c8e25d0800000000000000
+      internalID: -3085374659366799348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d79b38a293baf50800000000000000
+      internalID: 6893666509382057223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bae72aa28f3600800000000000000
+      internalID: 450222155086083626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90d2425ff935050800000000000000
+      internalID: 5788145821323954611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705cc857df2402a0800000000000000
+      internalID: -6772235337704124298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f39eaae7591b40800000000000000
+      internalID: 5411453092725256754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7be0cf200864a0800000000000000
+      internalID: -6600025048811340407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de2d03eefe9eba0800000000000000
+      internalID: -6059048017349907055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be407a814375a07b0800000000000000
+      internalID: -5257293733738117909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dc5a10ab3f94800800000000000000
+      internalID: 597276405820411279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e78fa32140a71c0800000000000000
+      internalID: -4505284000885473740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0f4463f85fd350800000000000000
+      internalID: 6043647027337693825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbcacdfd969adce0800000000000000
+      internalID: -1379624730523677737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031225e111b4e400800000000000000
+      internalID: 352601361258517250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87614eedbeca0a0800000000000000
+      internalID: -6868855989104904019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5c82ebf87ac910800000000000000
+      internalID: 1858430819476725258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca23104d342d070800000000000000
+      internalID: 8129634855189392605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665ffb1247f295d0800000000000000
+      internalID: -3057109333721524633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54b8083e9245a90800000000000000
+      internalID: -7326184636734028331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b07846cbc449ec0800000000000000
+      internalID: -3561137033319085210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b1514ddc178d30800000000000000
+      internalID: 4433544094778766245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257af657dfd70490800000000000000
+      internalID: -7780003715289025244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af352291f9f01d0800000000000000
+      internalID: -3382309864833025531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1455f0ce472e3a760800000000000000
+      internalID: 7468061598914925889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef32264beeb3650800000000000000
+      internalID: 6213822569395781301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b17b2ece8a2d320800000000000000
+      internalID: 2581311271806114665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84eb2883a14804a0800000000000000
+      internalID: -6626974681055632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba171426b85de0d0800000000000000
+      internalID: -3391957405027329348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3313330675597770800000000000000
+      internalID: 8609006128043594559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1ed529c21dfbf80800000000000000
+      internalID: -8088516416369729094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426d58b9a8aee410800000000000000
+      internalID: 1508328372111761993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc304330bdc4ece60800000000000000
+      internalID: 7984403692909757389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16823f71414fb1520800000000000000
+      internalID: 2673999170912856161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62be111f991b730800000000000000
+      internalID: 4013158003630614200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756cf60f8fc32690800000000000000
+      internalID: -7628025130631010957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e550d09ccf125f00800000000000000
+      internalID: 1103979822122554848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de4002536179e20800000000000000
+      internalID: 3357176464654265663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9276679f54ba970800000000000000
+      internalID: 8767178037342448120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33b38710d81f460800000000000000
+      internalID: 7273749910631691217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b98094a1c17cd250800000000000000
+      internalID: 5970772282489997746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb559a40510113480800000000000000
+      internalID: -8921331704385677889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metroidvania Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2f96897d4bde20800000000000000
+      internalID: 3376377529989279228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ public class MusicPlayer : MonoBehaviour
 {
     private AudioSource audioSource;
     [SerializeField] private AudioClip gameMusic;
-    [SerializeField] private AudioClip stop;
+
     void Start()
     {
         audioSource = GetComponent<AudioSource>();

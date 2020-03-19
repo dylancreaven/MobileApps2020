@@ -163,7 +163,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &742999558
 PrefabInstance:
@@ -181,6 +181,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToMainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 4027949520640513515, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
+        type: 3}
+      propertyPath: m_Colors.m_ColorMultiplier
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5917171683097503067, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
@@ -512,7 +517,7 @@ PrefabInstance:
     - target: {fileID: 5917171684833985217, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 60.1
+      value: 63.21
       objectReference: {fileID: 0}
     - target: {fileID: 5917171684833985217, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
@@ -527,7 +532,7 @@ PrefabInstance:
     - target: {fileID: 5917171684833985217, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 269
+      value: 271.95
       objectReference: {fileID: 0}
     - target: {fileID: 5917171684833985218, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4,
         type: 3}
@@ -561,6 +566,72 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c4e9c7c2bbabd74f9e29c507e6d8ea4, type: 3}
+--- !u!1 &883701338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 883701341}
+  - component: {fileID: 883701340}
+  - component: {fileID: 883701339}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &883701339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883701338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &883701340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883701338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &883701341
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883701338}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &883975131
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,7 +750,7 @@ PrefabInstance:
     - target: {fileID: 5461034993272177226, guid: a25c8cc8ffe799d45be1559a05dce790,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5461034993272177226, guid: a25c8cc8ffe799d45be1559a05dce790,
         type: 3}
@@ -1021,7 +1092,7 @@ PrefabInstance:
     - target: {fileID: 3925066855835668133, guid: 5ae393e43231a134383b296d4f543215,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3925066855835668133, guid: 5ae393e43231a134383b296d4f543215,
         type: 3}

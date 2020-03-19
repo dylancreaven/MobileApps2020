@@ -10,6 +10,8 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     // == onclick Events ==
+    public void Start(){
+    }
     public void Start_Level1()
     {
         SceneManager.LoadSceneAsync(SceneNames.GAME_LEVEL1);
@@ -20,6 +22,19 @@ public class SceneController : MonoBehaviour
        
        SceneManager.LoadScene(0);
         
+    }
+    public void Credits(){
+
+        
+        Debug.Log("CREDITS");
+        SceneManager.LoadSceneAsync(SceneNames.CREDITS);
+
+
+    }
+    public void GameCompleted()
+    {
+        Debug.Log("Game_Completed");
+        SceneManager.LoadSceneAsync(SceneNames.GAME_COMPLETED,LoadSceneMode.Additive);
     }
     public void GameOver()
     {
@@ -33,11 +48,7 @@ public class SceneController : MonoBehaviour
     public void Next_Level(){
          int y = SceneManager.GetActiveScene().buildIndex;
          SceneManager.UnloadScene(y);
-         y = SceneManager.GetActiveScene().buildIndex;
          SceneManager.LoadScene(y+1);
-
-        
-        SceneManager.LoadSceneAsync(SceneNames.GAME_LEVEL2);
     }
 
      public void restart_level(){
