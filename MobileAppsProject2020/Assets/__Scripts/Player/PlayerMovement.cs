@@ -11,19 +11,11 @@ public class PlayerMovement : MonoBehaviour
     private float yValue;
     private Rigidbody2D rb;
     private bool facingRight=true;
-    [SerializeField] private int playerLives=3;
-    public int PlayerLives{
-            get{return playerLives;} 
-
-        }
-    
+ 
     private Camera gameCamera;
     
     [SerializeField] private float speed = 5.0f;
 
-    // == private methods ==
-
-    //need method to handle death
 
     
     //play big crash sound, respawn player and decriment no of lives
@@ -35,7 +27,17 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // add hMovement
+       Movement();
+
+    }
+    private void Flip()//switch way player is facing
+	{
+		facingRight = !facingRight;
+         transform.Rotate(0f,180f,0f); // taken from Brackeys Youtube video - https://www.youtube.com/watch?v=wkKsl1Mfp5M
+	}
+
+    void Movement(){
+        Debug.Log("In Movement");
         // if the player presses the up arrow, then move
         float vMovement = Input.GetAxis("Vertical");
         float hMovement = Input.GetAxis("Horizontal");
@@ -53,40 +55,22 @@ public class PlayerMovement : MonoBehaviour
 				// ... flip the player.
 				Flip();
 			}
-        //Debug.Log(rb.velocity);
+        
          int y = SceneManager.GetActiveScene().buildIndex;
-         if (y==1)
+         if (y==3)
          {
-             Debug.Log("Game level 1");
+            Debug.Log("Game level 1");
             yValue = Mathf.Clamp(rb.position.y, -1.9f, 4.222464f);
             xValue = Mathf.Clamp(rb.position.x, -9.21339f, 9.268325f);
          }
-         else if (y==2)
+         else if (y==4)
          {
-             Debug.Log("Game level 2");
+            Debug.Log("Game level 2");
             yValue = Mathf.Clamp(rb.position.y, -4.445691f, 6.316514f);
             xValue = Mathf.Clamp(rb.position.x, -8.785898f, 8.784029f);
          }
         
 
         rb.position = new Vector2(xValue, yValue);
-
     }
-    private void Flip()//switch way player is facing
-	{
-
-		
-		facingRight = !facingRight;
-
-		/*flips orientation of player. From Brackeys Github - https://github.com/Brackeys/2D-Character-Controller/blob/master/CharacterController2D.cs 
-		Vector3 scale = transform.localScale;
-		scale.x *= -1;
-		transform.localScale = scale;*/
-
-        
-        
-         transform.Rotate(0f,180f,0f); // taken from Brackeys Youtube video - https://www.youtube.com/watch?v=wkKsl1Mfp5M
-	}
-
-    
 }

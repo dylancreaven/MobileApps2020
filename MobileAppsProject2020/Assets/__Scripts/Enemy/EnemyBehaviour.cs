@@ -20,7 +20,7 @@ public class EnemyBehaviour : MonoBehaviour
         var player = GameObject.FindGameObjectWithTag("Player");
         if(player){
             target = player.GetComponent<Transform>();
-         //rb = GetComponent<Rigidbody2D>();
+     
         }
         
     }
@@ -34,7 +34,7 @@ public class EnemyBehaviour : MonoBehaviour
              if(target)
              {
              transform.position = Vector2.MoveTowards(transform.position,target.position,speed*Time.deltaTime);
-             // rb.velocity = new Vector2(-1 * speed, 0);
+           
              } 
         }
     }

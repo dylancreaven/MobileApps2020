@@ -454,8 +454,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -126, y: -140.97}
-  m_SizeDelta: {x: 281.6, y: 595.65}
+  m_AnchoredPosition: {x: -126, y: -208.56999}
+  m_SizeDelta: {x: 281.6, y: 730.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &133581954
 MonoBehaviour:
@@ -498,6 +498,11 @@ MonoBehaviour:
 
 
     Music Sources
+
+
+
+
+
 
 
 
@@ -658,7 +663,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -77, y: -723}
+  m_AnchoredPosition: {x: -77, y: -822}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &411392160
@@ -912,8 +917,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171, y: -141}
-  m_SizeDelta: {x: 281.6, y: 595.6}
+  m_AnchoredPosition: {x: 171, y: -208.6}
+  m_SizeDelta: {x: 281.6, y: 730.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1202169894
 MonoBehaviour:
@@ -946,10 +951,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Dylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nStreet Fighter III\nMetal
+  m_Text: "Dylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nStreet Fighter III\n\nMetal
     Gear Solid \n\nHumble March & Interplanetary Odyssey - Patrick de Artega\n\nSuper
-    Smash Bros Brawl \nFinal Fantasy VII\n\nThe Path(A New Beginning) - Gustavo Santaolalla\n\nMy
-    Mam\n\n"
+    Smash Bros Brawl \n\nFinal Fantasy VII\n\nMarvel's Infinity War (2018)\n\nThe
+    Path(A New Beginning) - Gustavo Santaolalla\n\nMy Mam\n\n"
 --- !u!222 &1202169895
 CanvasRenderer:
   m_ObjectHideFlags: 0

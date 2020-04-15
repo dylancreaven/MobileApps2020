@@ -45,6 +45,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Music.cs" />
+     <Compile Include="Assets\PauseMenu.cs" />
      <Compile Include="Assets\__Scripts\Controllers\Character Controller.cs" />
      <Compile Include="Assets\__Scripts\Controllers\GameController.cs" />
      <Compile Include="Assets\__Scripts\Controllers\MusicPlayer.cs" />
@@ -57,6 +59,7 @@
      <Compile Include="Assets\__Scripts\General\GameOver.cs" />
      <Compile Include="Assets\__Scripts\General\PointSpawners.cs" />
      <Compile Include="Assets\__Scripts\General\SpawnPoint.cs" />
+     <Compile Include="Assets\__Scripts\General\VolumeValueChange.cs" />
      <Compile Include="Assets\__Scripts\Player\Bullet.cs" />
      <Compile Include="Assets\__Scripts\Player\Player.cs" />
      <Compile Include="Assets\__Scripts\Player\PlayerMovement.cs" />

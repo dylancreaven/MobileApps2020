@@ -34,6 +34,12 @@ public class SceneController : MonoBehaviour
         Debug.Log("Game_Completed");
         SceneManager.LoadSceneAsync(SceneNames.GAME_COMPLETED,LoadSceneMode.Additive);
     }
+    public void InfoPanel()
+    {
+       
+        SceneManager.LoadSceneAsync(SceneNames.INFO,LoadSceneMode.Additive);
+    }
+    
     public void GameOver()
     {
         SceneManager.LoadSceneAsync(SceneNames.GAME_OVER,LoadSceneMode.Additive);
@@ -60,8 +66,9 @@ public class SceneController : MonoBehaviour
 
          Application.LoadLevel(Application.loadedLevel);
     }
-
+     
    public void ExitGame() {
+       Debug.Log("Quitting Game...");
      Application.Quit();
     }
     public static SceneController FindSceneController()
