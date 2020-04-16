@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/__Scenes/GameScene2.unity
+- path: Assets/__Scenes/Credits.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
