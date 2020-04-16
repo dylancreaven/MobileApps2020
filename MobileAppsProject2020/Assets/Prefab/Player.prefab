@@ -217,7 +217,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab018bf179c831d459b0de3f1ee94bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerLives: 3
   speed: 10
 --- !u!114 &3541687709847902682
 MonoBehaviour:
@@ -233,7 +232,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firePoint: {fileID: 3541687710404983177}
   bulletSpeed: 15
-  bulletPrefab: {fileID: 3092642313092754562, guid: 51abeea786474db4db6c9c3d9f57fa1c,
+  bulletPrefab: {fileID: 5092230321749673513, guid: 51abeea786474db4db6c9c3d9f57fa1c,
     type: 3}
   firingRate: 0.75
   shootClip: {fileID: 8300000, guid: b444a925bd6f0864fa1af2c19f7ad56d, type: 3}

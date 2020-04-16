@@ -6192,51 +6192,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: orthographic
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: field of view
-      value: 65.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: orthographic size
-      value: 7.64
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_NormalizedViewPortRect.width
-      value: 1.71
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_NormalizedViewPortRect.height
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_BackGroundColor.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_BackGroundColor.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_BackGroundColor.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102441558494588680, guid: 8708e228fcb33ed489ae756f7523f9b7,
-        type: 3}
-      propertyPath: m_BackGroundColor.a
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2102441558494588683, guid: 8708e228fcb33ed489ae756f7523f9b7,
         type: 3}
       propertyPath: m_Name

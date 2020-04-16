@@ -565,6 +565,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1661259270, guid: 5c1d28ef548f3c24f9bc2bab68820916, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 73
+      objectReference: {fileID: 0}
     - target: {fileID: 1083281433415012576, guid: 5c1d28ef548f3c24f9bc2bab68820916,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -580,6 +584,16 @@ PrefabInstance:
       propertyPath: pauseMenuUI
       value: 
       objectReference: {fileID: 2041625649}
+    - target: {fileID: 3941116179669907113, guid: 5c1d28ef548f3c24f9bc2bab68820916,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75.715
+      objectReference: {fileID: 0}
+    - target: {fileID: 3941116179669907113, guid: 5c1d28ef548f3c24f9bc2bab68820916,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.016031
+      objectReference: {fileID: 0}
     - target: {fileID: 3941116180107589945, guid: 5c1d28ef548f3c24f9bc2bab68820916,
         type: 3}
       propertyPath: m_LocalPosition.x
