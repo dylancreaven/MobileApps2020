@@ -16,7 +16,7 @@ public class EnemyBehaviour : MonoBehaviour
     // == private methods ==
     private void Start()
     {
-        
+        //make player the target for enemy to follow
         var player = GameObject.FindGameObjectWithTag("Player");
         if(player){
             target = player.GetComponent<Transform>();

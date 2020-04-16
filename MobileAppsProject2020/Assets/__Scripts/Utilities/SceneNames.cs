@@ -11,7 +11,6 @@ namespace Utilities
         public const string GAME_LEVEL1 = "GameScene1";
         public const string GAME_LEVEL2 = "GameScene2";
         public const string Completed_Level = "CompletedLevel";
-        public const string GAME_COMPLETED = "GameCompleted";
         public const string INFO = "InfoScene";
         public const string CREDITS = "Credits";
 

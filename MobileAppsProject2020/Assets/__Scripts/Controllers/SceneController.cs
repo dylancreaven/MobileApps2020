@@ -9,9 +9,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-    // == onclick Events ==
-    public void Start(){
-    }
+    
+    //first level
     public void Start_Level1()
     {
         SceneManager.LoadSceneAsync(SceneNames.GAME_LEVEL1);
@@ -29,11 +28,7 @@ public class SceneController : MonoBehaviour
 
 
     }
-    public void GameCompleted()
-    {
-        Debug.Log("Game_Completed");
-        SceneManager.LoadSceneAsync(SceneNames.GAME_COMPLETED,LoadSceneMode.Additive);
-    }
+    
     public void InfoPanel()
     {
        

@@ -6,6 +6,7 @@ public class PauseMenu : MonoBehaviour
 {
     
     public static bool isPaused = false;
+    //pause menu canvas
     public GameObject pauseMenuUI;
     public GameObject scoreUI;
     private SceneController sc;
@@ -13,6 +14,7 @@ public class PauseMenu : MonoBehaviour
     void Start(){
         Time.timeScale=1f;
         
+        //set canvas to be shown or not
         scoreUI.SetActive(true);
         pauseMenuUI.SetActive(false); 
         sc = SceneController.FindSceneController();
@@ -20,7 +22,7 @@ public class PauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(SceneManager.GetActiveScene().buildIndex==0)
+        if(SceneManager.GetActiveScene().buildIndex==0) // if current scene is the main menu do nothing
         {
             //do nothing
         }

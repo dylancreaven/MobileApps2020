@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-   
+   //classify a gameObject as a bullet
 }

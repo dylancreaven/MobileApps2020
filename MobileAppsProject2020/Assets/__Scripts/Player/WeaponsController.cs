@@ -16,17 +16,12 @@ public class WeaponsController : MonoBehaviour
     [SerializeField][Range(0f, 1.0f)] private float shootVolume = 0.5f;
 
     private Coroutine firingCoroutine;
-    private GameObject bulletParent;
+    
     private AudioSource audioSource;
 
     // == private methods ==
     private void Start()
     {
-        bulletParent = GameObject.Find("BulletParent");
-        if (!bulletParent)
-        {
-            bulletParent = new GameObject("BulletParent");
-        }
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -35,13 +30,12 @@ public class WeaponsController : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             // one way to fire
-            //FireBullet();
+        
             // implement a coroutine to fire
             firingCoroutine = StartCoroutine(FireCoroutine());
         }
         if(Input.GetKeyUp(KeyCode.Space))
-        {
-            //StopAllCoroutines();    
+        { 
             StopCoroutine(firingCoroutine);
         }
     }

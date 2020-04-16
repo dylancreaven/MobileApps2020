@@ -57,6 +57,7 @@ public class Enemy : MonoBehaviour
             if(mp)
             {
                mp.PlayOneShot(hitPlayer);
+               //turn down volume of sounds to 0
                VolumeValueChange.musicVolume=0f;
 
             }

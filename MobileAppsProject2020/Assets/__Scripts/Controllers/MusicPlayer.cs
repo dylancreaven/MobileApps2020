@@ -15,6 +15,7 @@ public class MusicPlayer : MonoBehaviour
 
    
     // == public methods ==
+    //plays clip once
     public void PlayOneShot(AudioClip clip)
     {
         if(clip)
@@ -22,6 +23,7 @@ public class MusicPlayer : MonoBehaviour
             audioSource.PlayOneShot(clip);
         }
     }
+    //turns all sounds on/off
     public void ToggleSounds()
     {
        

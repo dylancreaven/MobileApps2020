@@ -12,8 +12,6 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private bool facingRight=true;
  
-    private Camera gameCamera;
-    
     [SerializeField] private float speed = 5.0f;
 
 
@@ -33,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     private void Flip()//switch way player is facing
 	{
 		facingRight = !facingRight;
-         transform.Rotate(0f,180f,0f); // taken from Brackeys Youtube video - https://www.youtube.com/watch?v=wkKsl1Mfp5M
+         transform.Rotate(0f,180f,0f);
 	}
 
     void Movement(){
@@ -56,7 +54,7 @@ public class PlayerMovement : MonoBehaviour
 				Flip();
 			}
         
-         int y = SceneManager.GetActiveScene().buildIndex;
+         int y = SceneManager.GetActiveScene().buildIndex; // find what index current scene is
          if (y==2)
          {
             Debug.Log("Game level 1");
