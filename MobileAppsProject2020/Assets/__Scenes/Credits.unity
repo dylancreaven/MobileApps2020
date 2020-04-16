@@ -384,8 +384,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -126, y: -208.56999}
-  m_SizeDelta: {x: 281.6, y: 730.86}
+  m_AnchoredPosition: {x: -126, y: -393.65997}
+  m_SizeDelta: {x: 281.6, y: 1101.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &133581954
 MonoBehaviour:
@@ -418,13 +418,33 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Game Designer
+  m_Text: 'Game Director
+
+
+    Game Designer
 
 
     Programmer
 
 
     Animator
+
+
+    Ghost
+    Handler
+
+
+    Music Composer
+
+
+    Executive Director
+
+
+    Producer
+
+
+    Executive
+    Producer
 
 
     Music Sources
@@ -447,8 +467,7 @@ MonoBehaviour:
 
 
 
-    Special
-    Thanks'
+    Special Thanks'
 --- !u!222 &133581955
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -469,6 +488,7 @@ GameObject:
   - component: {fileID: 389341888}
   - component: {fileID: 389341887}
   - component: {fileID: 389341886}
+  - component: {fileID: 389341890}
   m_Layer: 5
   m_Name: CREDITS_CANVAS
   m_TagString: Untagged
@@ -557,6 +577,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &389341890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 389341885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9691dc6d98822448410167f7286247, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &411392158
 GameObject:
   m_ObjectHideFlags: 0
@@ -592,7 +624,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -77, y: -822}
+  m_AnchoredPosition: {x: -74, y: -1234}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &411392160
@@ -605,7 +637,7 @@ Animator:
   m_GameObject: {fileID: 411392158}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 5d62052c9aeb5884c958c241b5d3a78c, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4d755abfcaec182408a5ec225fb5c4de, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -803,8 +835,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171, y: -222.1}
-  m_SizeDelta: {x: 281.6, y: 757.8}
+  m_AnchoredPosition: {x: 171, y: -393.7}
+  m_SizeDelta: {x: 281.6, y: 1101}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1202169894
 MonoBehaviour:
@@ -837,10 +869,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Dylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nStreet Fighter III\n\nMetal
-    Gear Solid \n\nHumble March & Interplanetary Odyssey - Patrick de Artega\n\nSuper
-    Smash Bros Brawl \n\nFinal Fantasy VII\n\nMarvel's Infinity War (2018)\n\nThe
-    Path(A New Beginning) - Gustavo Santaolalla\n\nMy Mam\nAsbj\xF8rn Thirslund\n\n"
+  m_Text: "Dylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nDylan
+    Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nDylan Creaven\n\nStreet
+    Fighter III\n\nMetal Gear Solid \n\nHumble March & Interplanetary Odyssey - Patrick
+    de Artega\n\nSuper Smash Bros Brawl \n\nFinal Fantasy VII\n\nMarvel's Infinity
+    War (2018)\n\nThe Path(A New Beginning) - Gustavo Santaolalla\n\nMy Mam\nAsbj\xF8rn
+    Thirslund\n\n"
 --- !u!222 &1202169895
 CanvasRenderer:
   m_ObjectHideFlags: 0
