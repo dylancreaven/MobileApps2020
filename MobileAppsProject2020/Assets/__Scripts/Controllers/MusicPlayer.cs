@@ -10,7 +10,6 @@ public class MusicPlayer : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        audioSource.volume=0.23f;
         PlayOneShot(gameMusic);
     }
 
@@ -20,13 +19,8 @@ public class MusicPlayer : MonoBehaviour
     {
         if(clip)
         {
-            audioSource.volume=0.23f;
             audioSource.PlayOneShot(clip);
         }
-    }
-    public void StopMusic(){
-
-        audioSource.volume=0.00f;
     }
     public void ToggleSounds()
     {

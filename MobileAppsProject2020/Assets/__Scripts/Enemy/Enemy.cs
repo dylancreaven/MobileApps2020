@@ -57,7 +57,7 @@ public class Enemy : MonoBehaviour
             if(mp)
             {
                mp.PlayOneShot(hitPlayer);
-               mp.StopMusic();
+               VolumeValueChange.musicVolume=0f;
 
             }
             if(scene){

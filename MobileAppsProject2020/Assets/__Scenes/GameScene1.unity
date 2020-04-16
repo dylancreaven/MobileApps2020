@@ -357,7 +357,7 @@ PrefabInstance:
     - target: {fileID: 3925066855835668132, guid: 5ae393e43231a134383b296d4f543215,
         type: 3}
       propertyPath: Loop
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3925066855835668133, guid: 5ae393e43231a134383b296d4f543215,
         type: 3}
@@ -5452,6 +5452,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 1156362998}
+  scoreUI: {fileID: 6118923471155294415}
 --- !u!1 &1156362998
 GameObject:
   m_ObjectHideFlags: 0
@@ -8603,73 +8604,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 6118923471037714409, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 493
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 129.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785470, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 174
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_text
-      value: 123
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_margin.w
-      value: 20.640463
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_margin.x
-      value: -139.82915
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_isRightToLeft
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_margin.z
-      value: 205.79085
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_firstOverflowCharacterIndex
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6118923471999785471, guid: 2c8bbb97a04126441938b6be9f0e7795,
-        type: 3}
-      propertyPath: m_margin.y
-      value: -1.5931337
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c8bbb97a04126441938b6be9f0e7795, type: 3}
+--- !u!1 &6118923471155294415 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6118923471037714409, guid: 2c8bbb97a04126441938b6be9f0e7795,
+    type: 3}
+  m_PrefabInstance: {fileID: 6118923471155294414}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7717895175641724978
 PrefabInstance:
   m_ObjectHideFlags: 0

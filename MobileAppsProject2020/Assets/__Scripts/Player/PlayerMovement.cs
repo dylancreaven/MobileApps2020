@@ -57,13 +57,13 @@ public class PlayerMovement : MonoBehaviour
 			}
         
          int y = SceneManager.GetActiveScene().buildIndex;
-         if (y==3)
+         if (y==2)
          {
             Debug.Log("Game level 1");
             yValue = Mathf.Clamp(rb.position.y, -1.9f, 4.222464f);
             xValue = Mathf.Clamp(rb.position.x, -9.21339f, 9.268325f);
          }
-         else if (y==4)
+         else if (y==3)
          {
             Debug.Log("Game level 2");
             yValue = Mathf.Clamp(rb.position.y, -4.445691f, 6.316514f);

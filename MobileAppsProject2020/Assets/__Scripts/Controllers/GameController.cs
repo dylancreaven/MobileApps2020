@@ -23,6 +23,7 @@ public class GameController : MonoBehaviour
     {
        
         Time.timeScale = 1;
+        VolumeValueChange.musicVolume=1f;
         UpdateScore();
         scene = SceneController.FindSceneController();
         mp = MusicPlayer.FindMusicPlayer();
@@ -46,13 +47,10 @@ public class GameController : MonoBehaviour
         playerScore += enemy.ScoreValue;
         UpdateScore();
        
-            if(playerScore>=50)
+            if(playerScore>=20)
             {
                 Time.timeScale = 0;
-                if(mp)
-                {
-                    mp.StopMusic();
-                }
+                VolumeValueChange.musicVolume=0f;
                 
             
                 scene.LevelCompleted();

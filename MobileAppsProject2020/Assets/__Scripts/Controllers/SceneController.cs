@@ -51,7 +51,7 @@ public class SceneController : MonoBehaviour
 
     public void Next_Level(){
          int y = SceneManager.GetActiveScene().buildIndex;
-       if(y==2)
+       if(y==3)
        {
            Credits();
 
@@ -67,7 +67,7 @@ public class SceneController : MonoBehaviour
          Application.LoadLevel(Application.loadedLevel);
     }
      
-   public void ExitGame() {
+   public void QuitGame() {
        Debug.Log("Quitting Game...");
      Application.Quit();
     }
